@@ -1,0 +1,11 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body li {
+  list-style-type: none;
+}
+body a {
+  text-decoration: none;
+}/*# sourceMappingURL=App.css.map */
